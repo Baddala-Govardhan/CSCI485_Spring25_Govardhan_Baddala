@@ -26,13 +26,13 @@ Step 3: Running the Code
 
 Execute the Jupyter Notebook (Assignment_2.ipynb) or run the Python script step by step:
 
-# Load and preprocess dataset
+Load and preprocess dataset
 python preprocess.py
 
-# Apply PCA
+Apply PCA
 python pca_analysis.py
 
-# Apply t-SNE
+Apply t-SNE
 python tsne_analysis.py
 
 Step 4: View Outputs
