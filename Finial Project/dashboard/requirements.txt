@@ -1,0 +1,14 @@
+# streamlit
+# pandas
+# plotly
+# scikit-learn
+# statsmodels
+# pyngrok
+
+streamlit
+pandas
+numpy
+plotly
+statsmodels
+scikit-learn
+torch
